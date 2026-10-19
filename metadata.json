@@ -1,0 +1,6 @@
+{
+  "name": "A+ Cooling & Heating - Al Khoud, Oman",
+  "description": "Ultra-premium HVAC storefront and booking portal for A+ Cooling & Heating in Al Khoud, Seeb, Oman. Split AC units, chemical deep cleaning, gas refill, and emergency maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
